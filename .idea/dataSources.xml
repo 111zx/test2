@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="community" uuid="a1fcd6eb-8fea-40c0-9e75-c7e239a0596e">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\14914\Desktop\文档中转站\Web\community-master\community.vpp</jdbc-url>
+    </data-source>
+  </component>
+</project>
